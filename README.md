@@ -1,6 +1,6 @@
 # **分享官方 ChatGPT 中文版使用指南（支持GPT-4o、GPT-o1）**
 
-> 最后更新时间：2024/11/27
+> 最后更新时间：2024/11/29
 
 > 最后新增：[https://www.yixiaai.com/](https://www.yixiaai.com/) 
 
